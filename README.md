@@ -1,8 +1,5 @@
 # 👋 Hi there! I'm Shagun Sharma
 
-<img width="956" alt="Screenshot 2024-10-22 at 12 21 46 PM" src="https://github.com/user-attachments/assets/3ea18c27-d99b-49be-a2ca-563d71df5d2b" />
-
-
 ## 🚀 About Me
 - 🌐 Blockchain Developer with a passion for decentralized technologies.
 - 💻 Experienced in building secure and scalable solutions using **Golang**, **Solidity**, and **Node.js**.
